@@ -8,6 +8,6 @@ PacaDB is a simple, fast, and efficient key-value store database.
 
 ## TODO
 - [x] memtable
-- [ ] WAL(Write Ahead Log)
+- [x] WAL(Write Ahead Log)
 - [ ] SSTable
 - [ ] Compaction
