@@ -7,7 +7,7 @@ PacaDB is a simple, fast, and efficient key-value store database.
 - heavily based off of [RocksDB](https://github.com/facebook/rocksdb)
 
 ## TODO
-- [ ] memtable
+- [x] memtable
 - [ ] WAL(Write Ahead Log)
 - [ ] SSTable
 - [ ] Compaction
